@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1054968805308",
+    "firebase_url": "https://takehome10kaseyc.firebaseio.com",
+    "project_id": "takehome10kaseyc",
+    "storage_bucket": "takehome10kaseyc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054968805308:android:183cb2a3c18518b2",
+        "android_client_info": {
+          "package_name": "com.example.kaseyclark.takehome10_kaseyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054968805308-ioqldtsluarrmsj00g2882d6mhu5veod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kaseyclark.takehome10_kaseyc",
+            "certificate_hash": "2b77d1299600734bfb5a0b9768937c1aa3fca609"
+          }
+        },
+        {
+          "client_id": "1054968805308-5hekh8453tnejtqvpajd214sorradlam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH3oF1CmryMk6CKBEZj7A_YD-6LEWyDgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054968805308-5hekh8453tnejtqvpajd214sorradlam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
